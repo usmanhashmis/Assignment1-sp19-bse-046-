@@ -15,7 +15,7 @@ ul li{
 }
 
 
-.nav {
+.nav a{
     background-color: #333;
     overflow: hidden;
   }
