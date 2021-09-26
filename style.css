@@ -1,11 +1,13 @@
 .logo{
     margin-top: 25px;
 }
+.nav{
+    background-color: blue;
+}
 ul.nav {
     display: table;
     width: 100%;
     text-align: center;
-    background-color: blue;
   }
   
   ul.nav > li {
