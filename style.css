@@ -97,6 +97,7 @@
     .menu-items li {
       display: block;
       text-align: center;
+      float: right;
     }
     .show, .hide {  
       position: absolute;
