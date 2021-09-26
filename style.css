@@ -9,8 +9,11 @@
     background-color: #00a087;
   }
   #align{
-      float: right
+      float: right;
   }
+  #align1{
+    float: right;
+}
   .content {
     margin-top: 20px;
   }
