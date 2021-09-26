@@ -6,11 +6,12 @@
     z-index: 9999;
     width: 100%;
     height: 50px;
-    background-color: #571818b6;
+    background-color: #ad1b1b00;
   }
 
   #align1{
     float: right;
+    border:#008378;
 }
   .content {
     margin-top: 20px;
