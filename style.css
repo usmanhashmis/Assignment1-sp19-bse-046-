@@ -9,10 +9,7 @@
     background-color: #270701;
   }
 
-#align1{
-float: right;
 
-}
 
   .content {
     margin-top: 20px;
@@ -42,6 +39,10 @@ float: right;
   
   .menu-items {
     display: inline-block;
+    
+  }
+  #items{
+    float:right; 
   }
   .name {
     display: inline-block;
