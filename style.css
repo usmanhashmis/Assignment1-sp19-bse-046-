@@ -10,12 +10,12 @@ nav{
     overflow: hidden;
     float:right;
 }
-.nav a:hover {
+.a:hover {
     background-color: #33aa04;
     color: black;
   }
   
-  .nav a.active {
+.a.active {
     background-color: #33aa04;
     color: white;
   }
