@@ -8,5 +8,5 @@ ul.nav {
   }
   
   ul.nav > li {
-    display: table-cell;
+    display: inline;
   }
