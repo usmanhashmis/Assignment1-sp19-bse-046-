@@ -8,11 +8,9 @@
     height: 50px;
     background-color: #00a087;
   }
-  #align{
-      float: right;
-  }
+
   #align1{
-    float: right;
+    text-align:right;
 }
   .content {
     margin-top: 20px;
