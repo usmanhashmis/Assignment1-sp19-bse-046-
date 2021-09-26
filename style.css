@@ -5,7 +5,11 @@
   overflow:auto;
 }
 
-nav{float:right;}
+nav{
+    background-color: #333;
+    overflow: hidden;
+    float:right;
+}
 
 .logo img{float:left;}
 
@@ -13,13 +17,6 @@ ul li{
   display: inline-block; padding:10px;
   font-size:20px; font-family:raleway;
 }
-
-
-.nav a{
-    background-color: #333;
-    overflow: hidden;
-  }
-
   
 
   .nav a:hover {
