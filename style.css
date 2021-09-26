@@ -41,9 +41,7 @@
     display: inline-block;
     
   }
-  #items{
-    float:right; 
-  }
+ 
   .name {
     display: inline-block;
     margin-right: 20px;
