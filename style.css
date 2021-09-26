@@ -31,7 +31,7 @@
   .menu a:hover, .menu a:target {
     color: #830707;
   }
-  .a:hover{
+  .menu-items.a:hover{
     color: #3906f1;
     border: #0804f7 solid 1px;
     background:#fff;
