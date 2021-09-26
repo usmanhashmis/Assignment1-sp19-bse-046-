@@ -1,11 +1,8 @@
-.logo{
-    margin-top: 25px;
-}
+
 .nav {
     background-color: #333;
     overflow: hidden;
   }
-  
   .nav a {
     float: left;
     color: #f2f2f2;
@@ -22,6 +19,6 @@
   }
   
   .nav a.active {
-    background-color: #5a04aa;
+    background-color: #33aa04;
     color: white;
   }
