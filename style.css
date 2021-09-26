@@ -34,13 +34,11 @@
     color: #830707;
   }
   .a:hover{
-    color: #ff7a59;
-    border: #ff7a59 solid 1px;
+    color: #3906f1;
+    border: #0b08ec solid 1px;
     background:#fff;
   }
-  .a:hover:before {
-    left: 7px;
-  }
+  
   .menu-items {
     display: inline-block;
   }
