@@ -1,4 +1,10 @@
-
+.logo {
+    display: inline-block;
+    vertical-align: top;
+    width: 50px;
+    height: 50px;
+    margin-right: 20px;
+    margin-top: 15px; 
 .nav {
     background-color: #333;
     overflow: hidden;
@@ -14,7 +20,7 @@
   
 
   .nav a:hover {
-    background-color: #ddd;
+    background-color: rgb(8, 20, 187);
     color: black;
   }
   
