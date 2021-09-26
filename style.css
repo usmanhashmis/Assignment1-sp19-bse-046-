@@ -10,6 +10,15 @@ nav{
     overflow: hidden;
     float:right;
 }
+.nav a:hover {
+    background-color: #33aa04;
+    color: black;
+  }
+  
+  .nav a.active {
+    background-color: #33aa04;
+    color: white;
+  }
 
 .logo img{float:left;}
 
@@ -19,12 +28,3 @@ ul li{
 }
   
 
-  .nav a:hover {
-    background-color: #33aa04;
-    color: black;
-  }
-  
-  .nav a.active {
-    background-color: #33aa04;
-    color: white;
-  }
