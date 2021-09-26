@@ -33,6 +33,11 @@
   .menu a:hover, .menu a:target {
     color: #830707;
   }
+  .a:hover{
+    color: #ff7a59;
+    border: #ff7a59 solid 1px;
+    background:#fff;
+  }
   .menu-items {
     display: inline-block;
   }
